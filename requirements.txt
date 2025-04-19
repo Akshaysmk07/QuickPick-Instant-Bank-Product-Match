@@ -1,4 +1,6 @@
-numpy==1.24.2
-pandas==1.5.3
-scikit_learn==1.2.1
-streamlit==1.18.1
+numpy
+pandas
+scikit_learn
+streamlit
+altair
+
