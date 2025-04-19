@@ -5,7 +5,20 @@
 Speed up your decision-making with instant, tailored banking product suggestions that fit your unique financial profile.
 
 ---
+## 📷 Project age Previews
 
+### ✅ Image 1
+![Image 1](res/1.png)
+
+---
+### ✅ Image 2
+![Image 2](res/2.png)
+
+---
+### ✅ Image 3
+![Image 2](res/3.png)
+
+---
 ### 📌 Summary  
 ![Weighted Hybrid Recommendation System](https://user-images.githubusercontent.com/61654792/217188533-4cc867f2-3888-4b7c-8028-c2971be6bafe.png)
 
